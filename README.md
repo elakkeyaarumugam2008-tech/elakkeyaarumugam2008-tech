@@ -106,18 +106,7 @@
 
 ---
 
-## 📌 Popular Repositories
 
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=elakkeyaarumugam2008-tech&repo=calculator&theme=transparent&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&text_color=a0a0b0)](https://github.com/elakkeyaarumugam2008-tech?tab=repositories)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=elakkeyaarumugam2008-tech&repo=Js-TodoList&theme=transparent&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&text_color=a0a0b0)](https://github.com/elakkeyaarumugam2008-tech?tab=repositories)
-
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=elakkeyaarumugam2008-tech&repo=Travel-Landing-Page&theme=transparent&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&text_color=a0a0b0)](https://github.com/elakkeyaarumugam2008-tech?tab=repositories)
-
-</div>
-
----
 
 <div align="center">
 
