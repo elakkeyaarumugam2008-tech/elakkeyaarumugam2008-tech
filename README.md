@@ -1,52 +1,54 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Elakkeya&fontSize=55&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=AIML%20Student%20%7C%20DSA%20Practitioner%20%7C%20Python%20Builder&descAlignY=58&descColor=a0a0b0)](https://github.com/elakkeyaarumugam2008-tech)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Elakkeya&fontSize=55&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Software%20Dev%20%7C%20AI%2FML%20Explorer&descAlignY=58&descColor=a0a0b0)](https://github.com/elakkeyaarumugam2008-tech)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=1st+Year+AIML+Student;Daily+DSA+Grinder+%F0%9F%A7%A0;Learning+ML+one+algorithm+at+a+time;Open+to+Collaborate+%26+Learn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=IT+Student+%F0%9F%92%BB;AI+Engineer+in+Progress+%F0%9F%A4%96;ML+%26+Deep+Learning+Explorer;Daily+Coder+%7C+Daily+Learner;Open+to+Collaborate+%26+Grow+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```python
-class Elakkeya:
-    name       = "Elakkeya"
-    college    = "1st Year — AIML Department"
-    focus      = ["Machine Learning", "Deep Learning", "DSA"]
-    languages  = ["Python", "C", "Java"]
-    currently  = "Building ML foundations + grinding LeetCode daily"
-    open_to    = ["Learning", "Collaboration", "Open Source"]
-    github     = "https://github.com/elakkeyaarumugam2008-tech"
-    linkedin   = "https://www.linkedin.com/in/elakkeya-a-9a023b380"
-    leetcode   = "https://leetcode.com/u/Elakkeya"
-```
+## 🚀 What I'm Up To
+
+- 🧠 **Learning** the foundations of Machine Learning & Deep Learning
+- 🐍 **Coding** in Python every day — one algorithm at a time
+- 📊 **Exploring** Data Science, Neural Networks & Computer Vision
+- 🔍 **Curious** about NLP, Generative AI, and LLMs
+- 🌐 **Building** websites with HTML, CSS & JavaScript
+- 🌱 **Growing** — from a student to an AI innovator
 
 ---
 
-## ⚡ Tech Stack
+## 💻 Programming Languages
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00f5ff)
-![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=00f5ff)
-![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=00f5ff)
+</div>
 
-**AI / ML Libraries**
+---
 
-![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=00f5ff)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=00f5ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0a?style=for-the-badge&logo=plotly&logoColor=00f5ff)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=00f5ff)
 
-**Tools & Platforms**
 
-![VS Code](https://img.shields.io/badge/VSCode-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=00f5ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0a?style=for-the-badge&logo=jupyter&logoColor=00f5ff)
-![Google Colab](https://img.shields.io/badge/Colab-0a0a0a?style=for-the-badge&logo=googlecolab&logoColor=00f5ff)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00f5ff)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00f5ff)
+## 🌐 Web Dev
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+</div>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter&theme=dark" />
+<br><br>
+
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=000000)
 
 </div>
 
@@ -83,6 +85,7 @@ class Elakkeya:
 
 | Area | What I'm doing |
 |------|----------------|
+| 🌐 Building | Websites with HTML, CSS & JavaScript |
 | 📚 Learning | ML & Deep Learning fundamentals |
 | 🧩 Practicing | DSA on LeetCode daily |
 | 🐍 Coding | Python — algorithms & data projects |
@@ -90,17 +93,37 @@ class Elakkeya:
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://www.linkedin.com/in/elakkeya-a-9a023b380)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/elakkeyaarumugam2008-tech)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=00f5ff)](https://leetcode.com/u/Elakkeya)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/elakkeya-a-9a023b380)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/elakkeyaarumugam2008-tech)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Elakkeya)
 
 </div>
 
 ---
+
+## 📌 Popular Repositories
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=elakkeyaarumugam2008-tech&repo=calculator&theme=transparent&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&text_color=a0a0b0)](https://github.com/elakkeyaarumugam2008-tech?tab=repositories)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=elakkeyaarumugam2008-tech&repo=Js-TodoList&theme=transparent&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&text_color=a0a0b0)](https://github.com/elakkeyaarumugam2008-tech?tab=repositories)
+
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=elakkeyaarumugam2008-tech&repo=Travel-Landing-Page&theme=transparent&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&text_color=a0a0b0)](https://github.com/elakkeyaarumugam2008-tech?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=elakkeyaarumugam2008-tech&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 <div align="center">
 
