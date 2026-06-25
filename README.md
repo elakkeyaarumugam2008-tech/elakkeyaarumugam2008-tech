@@ -4,6 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=IT+Student+%F0%9F%92%BB;AI+Engineer+in+Progress+%F0%9F%A4%96;ML+%26+Deep+Learning+Explorer;Daily+Coder+%7C+Daily+Learner;Open+to+Collaborate+%26+Grow+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
+<br>
+
+![Status](https://img.shields.io/badge/Status-Student-302b63?style=for-the-badge&logoColor=white)
+![Open To](https://img.shields.io/badge/Open%20To-Learning%20%26%20Collaborations-302b63?style=for-the-badge&logoColor=white)
+
 </div>
 
 ---
@@ -48,7 +53,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter&theme=dark" />
 <br><br>
 
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=000000)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=000000)
 
 </div>
 
@@ -97,10 +102,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/elakkeya-a-9a023b380)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/elakkeyaarumugam2008-tech)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Elakkeya)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/elakkeya-a-9a023b380)[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/elakkeyaarumugam2008-tech)<a href="https://leetcode.com/u/Elakkeya"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" width="48" height="48" /></a>
 
 </div>
 
