@@ -2,11 +2,11 @@
 
 [![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Elakkeya&fontSize=55&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Software%20Dev%20%7C%20AI%2FML%20Explorer&descAlignY=58&descColor=a0a0b0)](https://github.com/elakkeyaarumugam2008-tech)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=IT+Student+%F0%9F%92%BB;AI+Engineer+in+Progress+%F0%9F%A4%96;ML+%26+Deep+Learning+Explorer;Daily+Coder+%7C+Daily+Learner;Open+to+Collaborate+%26+Grow+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress+%F0%9F%A4%96;ML+%26+Deep+Learning+Explorer;Daily+Coder+%7C+Daily+Learner;Open+to+Collaborate+%26+Grow+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <br>
 
-![Status](https://img.shields.io/badge/Status-Student-302b63?style=for-the-badge&logoColor=white)
+![Status](https://img.shields.io/badge/Status-2nd%20Year%20Student-302b63?style=for-the-badge&logoColor=white)
 ![Open To](https://img.shields.io/badge/Open%20To-Learning%20%26%20Collaborations-302b63?style=for-the-badge&logoColor=white)
 
 </div>
@@ -102,7 +102,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/elakkeya-a-9a023b380)[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/elakkeyaarumugam2008-tech)<a href="https://leetcode.com/u/Elakkeya"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" width="48" height="48" /></a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/elakkeya-a-9a023b380)&nbsp;&nbsp;[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/elakkeyaarumugam2008-tech)&nbsp;&nbsp;[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:elakkeyaarumugam2008@gmail.com)
+<br><br>
+<a href="https://leetcode.com/u/Elakkeya"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" width="48" height="48" /></a>
 
 </div>
 
