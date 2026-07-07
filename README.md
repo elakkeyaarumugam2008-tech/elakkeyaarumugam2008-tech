@@ -57,22 +57,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=elakkeyaarumugam2008-tech&show_icons=true&theme=transparent&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff&text_color=a0a0b0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elakkeyaarumugam2008-tech&layout=compact&theme=transparent&border_color=00f5ff&title_color=00f5ff&text_color=a0a0b0" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=elakkeyaarumugam2008-tech&theme=transparent&border=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=a0a0b0&dates=a0a0b0)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
