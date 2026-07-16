@@ -58,7 +58,14 @@
 </div>
 
 
----
+
+## 🏆 Hackathons & Achievements
+- 🚀 **Hack to Hire** — Selected Participant
+- 🐛 **Caterpillar Hackathon** — Selected Participant
+- 🎮 **Steamified Hackathon** — Selected Participant
+- 💡 **Software Innovation Challenge Hackathon** — Selected Participant
+- 🌟 Selected for various other **external hackathons & tech events**
+
 
 ## 🧠 LeetCode Progress
 
