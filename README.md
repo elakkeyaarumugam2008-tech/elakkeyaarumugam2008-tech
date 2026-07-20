@@ -47,23 +47,24 @@
 ---
 
 ## 🛠️ Tools & Platforms
+<p align="center">
+
+
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter&theme=dark" />
-<br><br>
-
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=000000)
-
+<img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter&theme=dark"/>
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="55" alt="Google Colab"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="55" alt="Vercel"/>
+<img src="https://cdn.simpleicons.org/cursor/FFFFFF" height="55" alt="Cursor AI"/>
+<img src="https://antigravity.google/assets/image/antigravity-logo.png" width="40" height="40" alt="Antigravity AI" style="border-radius:8px;" />
 </div>
-
-
+</p>
 
 ## 🏆 Hackathons & Achievements
 - 🚀 **Hack to Hire** — Selected Participant
 - 🐛 **Caterpillar Hackathon** — Selected Participant
-- 🎮 **Steamified Hackathon** — Selected Participant
-- 💡 **Software Innovation Challenge Hackathon** — Selected Participant
+- 🎮 **Steamified Hackathon** — Finalist
+- 💡 **Software Innovation Challenge Hackathon** — Finalist
 - 🌟 Selected for various other **external hackathons & tech events**
 
 
