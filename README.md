@@ -61,9 +61,9 @@
 </p>
 
 ## 🏆 Hackathons & Achievements
-- 🚀 **Hack to Hire** — Selected Participant
-- 🐛 **Caterpillar Hackathon** — Selected Participant
-- 🎮 **Steamified Hackathon** — Finalist
+- 🚀 **Hack to Hire** 
+- 🐛 **Caterpillar Hackathon** 
+- 🎮 **Steamified Hackathon**
 - 💡 **Software Innovation Challenge Hackathon** — Finalist
 - 🌟 Selected for various other **external hackathons & tech events**
 
