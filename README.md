@@ -64,7 +64,7 @@
 - 🚀 **Hack to Hire** 
 - 🐛 **Caterpillar Hackathon** 
 - 🎮 **Steamified Hackathon**
-- 💡 **Software Innovation Challenge Hackathon** — Finalist
+- 💡 **Software Innovation Challenge Hackathon** 
 - 🌟 Selected for various other **external hackathons & tech events**
 
 
