@@ -2,7 +2,7 @@
 
 [![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Elakkeya&fontSize=55&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Software%20Dev%20%7C%20AI%2FML%20Explorer&descAlignY=58&descColor=a0a0b0)](https://github.com/elakkeyaarumugam2008-tech)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress+%F0%9F%A4%96;ML+%26+Deep+Learning+Explorer;Daily+Coder+%7C+Daily+Learner;Open+to+Collaborate+%26+Grow+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress+%F0%9F%A4%96;ML+%26+Deep+Learning+Explorer;Daily+Coder+%7C+Daily+Learner;Open+to+Collaborate+%26+Grow+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <br>
 
