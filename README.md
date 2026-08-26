@@ -48,8 +48,7 @@ Driven by curiosity and a passion for learning, I strive to build **practical so
 ---
 
 ## Connect With Me
-
-[<img src="https://img.shields.io/badge/-%20%20%20-181717?style=flat&logo=github&logoColor=white&logoWidth=25" height="40" />](https://github.com/elakkeyaarumugam2008-tech)
-[<img src="https://img.shields.io/badge/-%20%20%20-0A66C2?style=flat&logo=linkedin&logoColor=white&logoWidth=25" height="40" />](https://www.linkedin.com/in/elakkeya-a-9a023b380)
-[<img src="https://img.shields.io/badge/-%20%20%20-FFA116?style=flat&logo=leetcode&logoColor=black&logoWidth=25" height="40" />](https://leetcode.com/u/Elakkeya/)
-[<img src="https://img.shields.io/badge/-%20%20%20-D14836?style=flat&logo=gmail&logoColor=white&logoWidth=25" height="40" />](mailto:elakkeyaarumugam2008@gmail.com)
+<a href="https://github.com/elakkeyaarumugam2008-tech"><img src="https://raw.githubusercontent.com/elakkeyaarumugam2008-tech/elakkeyaarumugam2008-tech/main/assets/github.png" width="55" /></a>
+<a href="https://www.linkedin.com/in/elakkeya-a-9a023b380"><img src="https://raw.githubusercontent.com/elakkeyaarumugam2008-tech/elakkeyaarumugam2008-tech/main/assets/linkedin.png" width="55" /></a>
+<a href="https://leetcode.com/u/Elakkeya/"><img src="https://raw.githubusercontent.com/elakkeyaarumugam2008-tech/elakkeyaarumugam2008-tech/main/assets/leetcode.png" width="55" /></a>
+<a href="mailto:elakkeyaarumugam2008@gmail.com"><img src="https://raw.githubusercontent.com/elakkeyaarumugam2008-tech/elakkeyaarumugam2008-tech/main/assets/gmail.png" width="55" /></a>
