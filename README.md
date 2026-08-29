@@ -12,7 +12,7 @@
 
 I'm Elakkeya A, a second-year **B.Tech Information Technology** student at **Bannari Amman Institute of Technology**, focused on becoming a skilled **Software Engineer**.
 
-I enjoy exploring **Software Development, Full Stack Development, and Problem Solving** while continuously strengthening my technical skills through hands-on projects and hackathons.
+I enjoy exploring **Software Development,AI and Problem Solving** while continuously strengthening my technical skills through hands-on projects and hackathons.
 
 Driven by curiosity and a passion for learning, I strive to build **practical solutions**, write **clean and maintainable code**, solve meaningful problems, and continuously grow as an engineer.
 
