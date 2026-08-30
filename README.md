@@ -16,7 +16,7 @@ I enjoy exploring **Software Development,AI and Problem Solving** while continuo
 
 Driven by curiosity and a passion for learning, I strive to build **practical solutions**, write **clean and maintainable code**, solve meaningful problems, and continuously grow as an engineer.
 
----
+
 
 ## Tech Stack
 
@@ -30,16 +30,15 @@ Driven by curiosity and a passion for learning, I strive to build **practical so
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 ### Database
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&v=2" />
 
-## Development Tools
+### Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 &nbsp;
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/Antigravity-1A1A2E?style=for-the-badge&logo=google&logoColor=white" />
 
----
 
 ## LeetCode Status
 
@@ -47,7 +46,7 @@ Driven by curiosity and a passion for learning, I strive to build **practical so
 
 <img src="https://leetcard.jacoblin.cool/Elakkeya?theme=dark&font=Baloo%202&ext=heatmap" />
 
----
+
 
 ## Connect With Me
 <a href="https://github.com/elakkeyaarumugam2008-tech"><img src="https://raw.githubusercontent.com/elakkeyaarumugam2008-tech/elakkeyaarumugam2008-tech/main/assets/github.png" width="55" /></a>
