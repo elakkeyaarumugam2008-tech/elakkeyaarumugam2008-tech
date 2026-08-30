@@ -29,6 +29,8 @@ Driven by curiosity and a passion for learning, I strive to build **practical so
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 
 ## Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
