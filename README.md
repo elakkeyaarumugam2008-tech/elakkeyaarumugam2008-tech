@@ -17,7 +17,7 @@ I enjoy exploring **Software Development,AI and Problem Solving** while continuo
 Driven by curiosity and a passion for learning, I strive to build **practical solutions**, write **clean and maintainable code**, solve meaningful problems, and continuously grow as an engineer.
 
 
-
+--------
 ## Tech Stack
 
 ### Languages
