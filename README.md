@@ -46,7 +46,7 @@ Driven by curiosity and a passion for learning, I strive to build **practical so
 
 <img src="https://leetcard.jacoblin.cool/Elakkeya?theme=dark&font=Baloo%202&ext=heatmap" />
 
-
+--------
 
 ## Connect With Me
 <a href="https://github.com/elakkeyaarumugam2008-tech"><img src="https://raw.githubusercontent.com/elakkeyaarumugam2008-tech/elakkeyaarumugam2008-tech/main/assets/github.png" width="55" /></a>
