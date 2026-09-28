@@ -18,6 +18,7 @@ Driven by curiosity and a passion for learning, I strive to build **practical so
 
 --------
 
+## Tech Stack
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css&theme=dark" />
