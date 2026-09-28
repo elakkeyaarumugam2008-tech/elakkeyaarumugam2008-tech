@@ -8,7 +8,7 @@
 </div>
 <h1 align="left">Hi 👋, I'm Elakkeya A</h1>
 
-
+## About Me
 
 I'm Elakkeya A, a second-year **B.Tech Information Technology** student at **Bannari Amman Institute of Technology**, focused on becoming a skilled **Software Engineer**.
 
