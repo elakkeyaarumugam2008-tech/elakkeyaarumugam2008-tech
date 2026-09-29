@@ -39,7 +39,11 @@ Driven by curiosity and a passion for learning, I strive to build **practical so
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/Antigravity-1A1A2E?style=for-the-badge&logo=google&logoColor=white" />
 
+## LeetCode Status
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Elakkeya-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Elakkeya/)
+
+<img src="https://leetcard.jacoblin.cool/Elakkeya?theme=dark&font=Baloo%202&ext=heatmap" />
 
 
 
